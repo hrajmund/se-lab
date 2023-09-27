@@ -4,7 +4,7 @@ This is a sample application for the [Software Engineering](http://www.mit.bme.h
 
 The application is simplified and deliberately contains bugs.
 
-## Getting started
+## Getting started #cvsga
 
 - The project is implemented in Java 11.
 - The project can be built using [Maven](https://maven.apache.org/).
